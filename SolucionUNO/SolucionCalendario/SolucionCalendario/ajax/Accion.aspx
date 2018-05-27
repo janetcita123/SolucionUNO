@@ -1,1 +1,0 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Accion.aspx.vb" Inherits="sisSalaSituacional.UserLayer.Accion" %>
