@@ -1,0 +1,148 @@
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll.config
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.pdb
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Antlr3.Runtime.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.Core.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\EntityFramework.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\EntityFramework.SqlServer.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\System.Web.Optimization.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\WebGrease.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\EntityFramework.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\EntityFramework.SqlServer.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.Core.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.Resources.resources
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbproj.GenerateResource.Cache
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.dll
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.xml
+C:\Users\Jan Faris\Documents\visual studio 2013\Projects\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.pdb
+D:\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll.config
+D:\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll
+D:\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.pdb
+D:\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.xml
+D:\SolucionCalendario\SolucionCalendario\bin\Antlr3.Runtime.dll
+D:\SolucionCalendario\SolucionCalendario\bin\AspNet.ScriptManager.jQuery.dll
+D:\SolucionCalendario\SolucionCalendario\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.AspNet.dll
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.Core.dll
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.dll
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.dll
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\SolucionCalendario\SolucionCalendario\bin\EntityFramework.dll
+D:\SolucionCalendario\SolucionCalendario\bin\EntityFramework.SqlServer.dll
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.Web.Infrastructure.dll
+D:\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.exe
+D:\SolucionCalendario\SolucionCalendario\bin\System.Web.Optimization.dll
+D:\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.dll
+D:\SolucionCalendario\SolucionCalendario\bin\WebGrease.dll
+D:\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.pdb
+D:\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.xml
+D:\SolucionCalendario\SolucionCalendario\bin\EntityFramework.xml
+D:\SolucionCalendario\SolucionCalendario\bin\EntityFramework.SqlServer.xml
+D:\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.xml
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.Core.xml
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.xml
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.xml
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\SolucionCalendario\SolucionCalendario\bin\DotNetOpenAuth.AspNet.xml
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbprojResolveAssemblyReference.cache
+D:\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.Resources.resources
+D:\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbproj.GenerateResource.Cache
+D:\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.dll
+D:\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.xml
+D:\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll.config
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Antlr3.Runtime.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Business.exe
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.exe
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\System.Web.Optimization.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\WebGrease.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Data.exe
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Oracle.DataAccess.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Business.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Business.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Data.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Data.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbprojResolveAssemblyReference.cache
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.Resources.resources
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbproj.GenerateResource.Cache
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll.config
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\SolucionCalendario.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Antlr3.Runtime.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Web.Infrastructure.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Select.HtmlToPdf.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Business.exe
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.exe
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\System.Web.Optimization.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\WebGrease.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Data.exe
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Oracle.DataAccess.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Practices.ServiceLocation.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Practices.Unity.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Microsoft.Practices.Unity.Interception.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Business.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Business.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Entity.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Select.HtmlToPdf.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\System.Web.Providers.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Data.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\sisCalendarioEventos.Data.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\bin\Select.Html.dep
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbprojResolveAssemblyReference.cache
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.Resources.resources
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.vbproj.GenerateResource.Cache
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\obj\Debug\SolucionCalendario.pdb

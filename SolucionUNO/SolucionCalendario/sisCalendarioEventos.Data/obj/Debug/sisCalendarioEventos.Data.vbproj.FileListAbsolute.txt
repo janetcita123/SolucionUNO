@@ -1,0 +1,77 @@
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe.config
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.pdb
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.xml
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\EPPlus.dll
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.dll
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Oracle.DataAccess.dll
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.exe
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.pdb
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.xml
+D:\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.xml
+D:\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbprojResolveAssemblyReference.cache
+D:\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.Resources.resources
+D:\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbproj.GenerateResource.Cache
+D:\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.exe
+D:\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.xml
+D:\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe.config
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\EPPlus.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.exe
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.pdb
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbprojResolveAssemblyReference.cache
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.Resources.resources
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbproj.GenerateResource.Cache
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.exe
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.xml
+C:\Users\Jan Faris\Desktop\AVANCE CALENDARIO DE EVENTOS\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.pdb
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe.config
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.pdb
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.xml
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\EPPlus.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.Unity.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Oracle.DataAccess.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.exe
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.pdb
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.xml
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.xml
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbprojResolveAssemblyReference.cache
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.Resources.resources
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbproj.GenerateResource.Cache
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.exe
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.xml
+D:\nueva version Calendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe.config
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.exe
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Data.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\EPPlus.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.Unity.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Oracle.DataAccess.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.exe
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.pdb
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\sisCalendarioEventos.Entity.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\bin\Debug\Newtonsoft.Json.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbprojResolveAssemblyReference.cache
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.Resources.resources
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.vbproj.GenerateResource.Cache
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.exe
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.xml
+D:\nueva version Calendario\SolucionCalendario\SolucionCalendario\sisCalendarioEventos.Data\obj\Debug\sisCalendarioEventos.Data.pdb

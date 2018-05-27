@@ -1,0 +1,101 @@
+<%
+ 
+ 	event.date_start = (new Date(parseInt(event.start)));
+	event.date_end = new Date(parseInt(event.end));
+    event.title = event.title;  
+    event.id= event.id;  
+    event.hourini=event.date_start.getHours();
+    event.minini=event.date_start.getMinutes();
+    event.hourfin=event.date_end.getHours();
+    event.minfin=event.date_end.getMinutes();
+    if (event.hourini < 10) { event.hourini='0'+event.hourini}   
+    if (event.hourfin < 10) { event.hourfin='0'+event.hourini}
+    
+    if (event.minini < 10) { event.minini='0'+event.minini}
+    
+    if (event.minfin < 10) { event.minfin='0'+event.minfin}
+        
+%>
+<header>
+ 
+    <script>
+        $(function () {
+            
+            $('#desde,#desde2').datetimepicker({
+                locale: 'es',
+                minDate: new Date(),
+                format: 'DD/MM/yyyy HH:mm'
+            });
+            $('#hacia,#hacia2').datetimepicker({
+                locale: 'es',
+                minDate: new Date(),
+                format: 'DD/MM/yyyy HH:mm',
+
+            });
+
+    });
+    </script>
+
+</header>
+<body>
+    <label id="idEvento" value="<%= event.id %>" > </label>
+    <label for="from">Inicio</label>
+    <div class='input-group date' id='desde'>
+        <input type='text' disabled id="desde2" name="from" class="form-control" readonly value=" <%= event.date_start.getDateFormatted() %>/<%= event.date_start.getMonthFormatted() %>/<%= event.date_start.getFullYear() %> <%= event.hourini %>:<%= event.minini %> " />
+        <!--<input type='text' disabled id="desde2" name="from" class="form-control" readonly value=" <%= event.date_start.localeFormat() %>" />-->
+        <span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+    </div>
+    <br />
+    <label for="to">Final</label>
+    <div class='input-group date' id='hacia'>
+
+        <input type='text' disabled name="to" id="hacia2" class="form-control " readonly value=" <%= event.date_end.getDateFormatted() %>/<%= event.date_end.getMonthFormatted() %>/<%= event.date_end.getFullYear() %> <%= event.hourfin %>:<%= event.minfin %> " />
+        <span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+    </div>
+    <br />
+
+    <label for="tipo">Tipo de evento</label>
+    <select class="form-control combo2" name="class" id="cboTemplate" runat="server">
+        
+    </select>
+    <br />
+    <!--<asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+    <script type="text/javascript">
+        $(function () {
+         event.date_start.format('DD/MM/YYYY')
+        });
+    </script>
+        <div id="event-meta" class="pull-right">
+            <span>Inicia el <%= event.date_start.getDate() %> <%= calendar.locale['m' + event.date_start.getMonth()] %> <%= event.date_start.getFullYear() %>, a las <%= event.date_start.getHours() %>:<%= event.date_start.getMinutes() %> <i class="icon-time"></i></span><br />
+            <span>Finaliza el <%= event.date_end.getDate() %> <%= calendar.locale['m' + event.date_end.getMonth()] %> <%= event.date_end.getFullYear() %> a las <%= event.date_end.getHours() %>:<%= event.date_end.getMinutes() %> <i class="icon-time"></i></span><br />
+
+         </div>
+        <div id="event-meta" class="pull-left">-->
+    <!--<span id="titulo"><%= event.title %> <i class="icon-time"></i></span><br />-->
+    <!--<a href="<%= event.url %>" class="btn btn-primary"><i class="icon-calendar"></i> More info</a>-->
+    <!--<div class="modal-header">
+            <h4 class="modal-title" id="myModalLabel">Detalle del Evento</h4>
+        </div>
+        <div class="modal-body">
+
+            <label for="from">Inicio</label>
+            <div class='input-group date' id='desde'>
+                <input type='text' disabled id="desde2" name="from" class="form-control" readonly value=" <%=  event.date_start.toLocaleDateString('es-Es') %> " />
+                <span class="input-group-addon"  ><span class="glyphicon glyphicon-calendar"  ></span></span>
+            </div>
+            <br />
+
+            
+
+
+            <label for="title">Titulo</label>
+            <input type="text" autocomplete="off" name="title" class="form-control" id="title" placeholder="Introduce un título" value="<%= event.title %>" />
+            <br />
+
+            <label for="body">Evento</label>
+            <textarea id="body" name="event" class="form-control" rows="3"></textarea>
+
+        </div>
+    </div>-->
+
+</body>

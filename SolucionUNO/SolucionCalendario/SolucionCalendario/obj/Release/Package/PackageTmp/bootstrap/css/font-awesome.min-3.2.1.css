@@ -1,0 +1,29 @@
+﻿
+
+ 
+p.campaign-signup.with-tooltip {
+
+  label {
+    font-weight:normal;
+    &:hover {
+      cursor:pointer;
+    }
+  }
+  
+  input {
+    vertical-align: bottom;
+    position: relative;
+    top: -6px;
+  }
+  
+  a[data-toggle='tooltip']{
+    color:#f1c40f;
+  }
+  
+  a[class*='icon-']:hover {
+    text-decoration:none !important;
+    border:none;
+    outline:none;
+  }
+ 
+}

@@ -1,0 +1,67 @@
+﻿.modal-bodyx{position:relative;padding:0px 20px 0px 20px;}
+
+/*Nuevo Checkbox con texto*/
+
+.NuevoChecked input[type="radio"]:empty,
+.NuevoChecked input[type="checkbox"]:empty {
+  display: none;
+}
+.NuevoChecked label, badge {
+margin-right:5px;
+margin-bottom:2px;
+max-height:25px;
+ 
+}
+.btnNuevo {
+    padding:1px 1px 1px 1px;
+}
+
+/* Hiding the checkbox, but allowing it to be focused */
+.badgebox
+{
+    opacity: 0;
+}
+
+.badgebox + .badge
+{
+    /* Move the check mark away when unchecked */
+    text-indent: -999999px;
+    /* Makes the badge's width stay the same checked and unchecked */
+	width: 27px;
+}
+
+.badgebox:focus + .badge
+{
+    /* Set something to make the badge looks focused */
+    /* This really depends on the application, in my case it was: */
+    
+    /* Adding a light border */
+    box-shadow: inset 0px 0px 5px;
+    /* Taking the difference out of the padding */
+}
+
+.badgebox:checked + .badge
+{
+    /* Move the check mark back when checked */
+	text-indent: 0;
+}
+
+
+
+
+/*checkbox solo*/
+.badge span.glyphicon {    			
+	opacity: 0;				
+}
+.badge span.glyphicon {				
+	opacity: 1;				
+}
+.alertnew {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+.btn-black{color:#fff;background-color:#026ab6;border-color:#026ab6}.btn-black:hover,.btn-black:focus,.btn-black:active,.btn-black.active,.open .dropdown-toggle.btn-black{color:#fff;background-color:#0a5f9c;border-color:#0a5f9c}.btn-black:active,.btn-black.active,.open .dropdown-toggle.btn-black{background-image:none}.btn-info.disabled,.btn-info[disabled],fieldset[disabled] .btn-black,.btn-black.disabled:hover,.btn-black[disabled]:hover,fieldset[disabled] .btn-black:hover,.btn-black.disabled:focus,.btn-black[disabled]:focus,fieldset[disabled] .btn-black:focus,.btn-black.disabled:active,.btn-black[disabled]:active,fieldset[disabled] .btn-black:active,.btn-info.disabled.active,.btn-info[disabled].active,fieldset[disabled] .btn-info.active{background-color:#0a5f9c;border-color:#0a5f9c}.btn-info .badge{color:#fff;background-color:#fff}

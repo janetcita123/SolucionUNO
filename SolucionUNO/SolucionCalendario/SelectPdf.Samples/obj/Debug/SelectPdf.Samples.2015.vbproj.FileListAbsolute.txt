@@ -1,0 +1,11 @@
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\bin\Select.Html.dep
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\obj\Debug\SelectPdf.Samples.Resources.resources
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\obj\Debug\SelectPdf.Samples.2015.vbproj.GenerateResource.Cache
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\obj\Debug\SelectPdf.Samples.dll
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\obj\Debug\SelectPdf.Samples.pdb
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\bin\SelectPdf.Samples.dll.config
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\bin\SelectPdf.Samples.dll
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\bin\SelectPdf.Samples.pdb
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\bin\Select.HtmlToPdf.dll
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\bin\Select.HtmlToPdf.xml
+D:\nueva version Calendario\SolucionCalendario\SelectPdf.Samples\obj\Debug\SelectPdf.Samples.2015.vbprojResolveAssemblyReference.cache
